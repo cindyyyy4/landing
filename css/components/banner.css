@@ -1,0 +1,15 @@
+.banner{
+  background-image: url(../../images/banner-santorini.jpeg);
+  color: white;
+  padding: 120px 32px;
+  object-fit: cover;
+}
+
+.banner h1{
+font-size: 40px;
+}
+
+.banner p{
+  font-size: 20px;
+  margin-bottom: 50px;
+}
